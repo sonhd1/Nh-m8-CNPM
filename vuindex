@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>profile =html,css</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="left">
+        <img src="images/oxLr7Hu.png" 
+        alt="user" width="100">
+        <h3>Trần Hoàng Vũ</h3>
+        <p>Ngày sinh: 26/11/2002</p>
+         <p>Sinh viên viễn thông PTIT</p>
+         <p>Msv:B20DCVT422</p>
+         <P>Địa chỉ : Trung Văn/ Nam từ liêm/ Hà nội</P>
+         <P>Sở thích:nghe nhạc, xem phim...</P>
+    </div>
+    <div class="right">
+        <div class="info">
+            <h3>Thông tin cá nhân</h3>
+            <div class="info_data">
+                 <div class="data">
+                    <h4>Email</h4>
+                    <p>hoangvu261102
+                        @gmail.com
+                    </p>
+                 </div>
+                 <div class="data">
+                   <h4>Phone</h4>
+                    <p>035427851</p>
+              </div>
+            </div>
+        </div>
+
+      <div class="projects">
+            <h3>Kĩ năng /Kinh nghiệm</h3>
+            <div class="projects_data">
+                 <div class="data">
+                    <h4>Tin học văn phòng</h4>
+                    <p>C/C++.</p>
+                 </div>
+                 <div class="data">
+                   <h4>Chứng chỉ</h4>
+                    <p>MOS.</p>
+              </div>
+            </div>
+        </div>
+
+        <div class="social_media">
+            <ul> 
+              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+          </ul>
+      </div>
+    </div>
+</div>
+
+</body>
+</html>
